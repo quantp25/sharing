@@ -1,0 +1,10 @@
+.boxed-slider.flexslider .flex-direction-nav a.flex-prev,
+.boxed-slider.flexslider .flex-direction-nav a.flex-next {
+    width: 60px;
+    height: 60px;
+    margin: 0;
+    background-size: 30px 30px;
+    background-position: 50% center;
+    margin-left: 0;
+    margin-right: 0;
+}
